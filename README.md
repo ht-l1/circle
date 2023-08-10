@@ -1,4 +1,5 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -37,3 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Other Resources
 [Clerk Docs](https://clerk.com/docs/nextjs/get-started-with-nextjs) for implementing authentication
+[Tailwindcss Docs](https://tailwindcss.com/docs) or [Tailwindcss CheatSheet](https://nerdcave.com/tailwind-cheat-sheet)
+[favicon](https://favicon.io/) for converter (the icon in web tab)
+[NextjsThemes](https://getnextjsthemes.com/)
