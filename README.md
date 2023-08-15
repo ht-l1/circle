@@ -37,6 +37,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Other Resources
+[Routing: Route Groups](https://nextjs.org/docs/app/building-your-application/routing/route-groups)
 [Clerk Docs](https://clerk.com/docs/nextjs/get-started-with-nextjs) for implementing authentication <br>
 [Tailwindcss Docs](https://tailwindcss.com/docs) or [Tailwindcss CheatSheet](https://nerdcave.com/tailwind-cheat-sheet) <br>
 [favicon](https://favicon.io/) for converter (the icon in web tab) <br>
